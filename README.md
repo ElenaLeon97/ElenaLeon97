@@ -15,6 +15,10 @@
 💼 &nbsp;Intern @ Global Talent Analytics – transforming HR data into actionable insights  
 💡 &nbsp;Special interest in predictive modeling, ML, NLP, and HR & sustainability analytics  
 🌱 &nbsp;Currently learning: Power BI DAX, Machine Learning in Python
+✍️ &nbsp;In my free time, I like to lose myself in a good book, and sing.\
+💬 &nbsp;Feel free to reach out to me for discussions on the aforementioned topics!\
+✉️ &nbsp;You can email me at eleonoglou@gmail.com. I'll try to respond as soon as possible!\
+📄 &nbsp;You can check my [LinkedIn](https://www.linkedin.com/in/elena-leonoglou/) for more details about work experience.
 
 ---
 
