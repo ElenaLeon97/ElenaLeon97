@@ -1,16 +1,52 @@
-## Hi there 👋
+![Banner](https://user-images.githubusercontent.com/39513876/112361914-e021f800-8cf9-11eb-9aac-a2b675065afc.gif)
 
-<!--
-**ElenaLeon97/ElenaLeon97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <img alt="wave" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width="40" align="left"/> Hi, I'm Elena!
+![last updated: August 2025](https://img.shields.io/badge/last_updated-August_2025-blue)
+![status: active](https://img.shields.io/badge/status-active-success)
+![Profile views](https://komarev.com/ghpvc/?username=ElenaLeon97&color=blue)
+[![GitHub followers](https://img.shields.io/github/followers/ElenaLeon97?label=Follow&style=social)](https://github.com/ElenaLeon97)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩🏻‍💻 &nbsp;About Me
+
+🎓 &nbsp;MSc in Marketing Analytics & Data Science (University of Groningen, 2025)  
+📊 &nbsp;Data-driven, business-oriented, and passionate about bridging insights with impact  
+💼 &nbsp;Intern @ Global Talent Analytics – transforming HR data into actionable insights  
+💡 &nbsp;Special interest in predictive modeling, ML, NLP, and HR & sustainability analytics  
+🌱 &nbsp;Currently learning: Power BI DAX, Machine Learning in Python
+💬 &nbsp;Let’s connect if you’re into data for good, behavioral analytics, or have interesting ideas
+
+---
+
+### 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=MySQL)&nbsp;
+![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=Power%20BI)&nbsp;
+![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=Microsoft-Excel)&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=Jupyter)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![STATA](https://img.shields.io/badge/-STATA-05122A?style=flat)&nbsp;
+
+**Libraries**: `pandas`, `numpy`, `scikit-learn`, `ggplot2`, `caret`, `dplyr`, `glmnet`, `randomForest`, `matplotlib`, `torch`
+
+---
+
+### 📚 &nbsp;Projects & Interests
+
+- 🔍 **Customer Journey Analysis** – user behavior + weather + competition = conversion insights  
+- 🌍 **Circular Economy Analytics** – analyzing textile recycling costs & true pricing  
+- 💡 **NLP for Fundraising** – how images and text affect donation outcomes  
+- 🧠 **Behavioral Modeling** – time of day, gender, & psychological flow in conversion behavior  
+
+---
+
+### 📫 &nbsp;How to reach me
+
+<a href="https://www.linkedin.com/in/elena-leonoglou/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a> &nbsp;
+<a href="mailto:eleonoglou@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white"></a> &nbsp;
+
+---
+
