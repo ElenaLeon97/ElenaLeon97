@@ -15,7 +15,6 @@
 💼 &nbsp;Intern @ Global Talent Analytics – transforming HR data into actionable insights  
 💡 &nbsp;Special interest in predictive modeling, ML, NLP, and HR & sustainability analytics  
 🌱 &nbsp;Currently learning: Power BI DAX, Machine Learning in Python
-💬 &nbsp;Let’s connect if you’re into data for good, behavioral analytics, or have interesting ideas
 
 ---
 
