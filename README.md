@@ -10,10 +10,10 @@
 
 ### 👩🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;MSc in Marketing Analytics & Data Science (University of Groningen, 2025).\  
-📊 &nbsp;Data-driven, business-oriented, and passionate about bridging insights with impact.\  
+🎓 &nbsp;MSc in Marketing Analytics & Data Science (University of Groningen, 2025).\
+📊 &nbsp;Data-driven, business-oriented, and passionate about bridging insights with impact.\
 💼 &nbsp;Intern @ Global Talent Analytics – transforming HR data into actionable insights.\
-💡 &nbsp;Special interest in predictive modeling, ML, NLP, and HR & sustainability analytics.\  
+💡 &nbsp;Special interest in predictive modeling, ML, NLP, and HR & sustainability analytics.\
 🌱 &nbsp;Currently learning: Power BI DAX, Machine Learning in Python.\
 ✍️ &nbsp;In my free time, I like to lose myself in a good book, and sing.\
 💬 &nbsp;Feel free to reach out to me for discussions on the aforementioned topics!\
