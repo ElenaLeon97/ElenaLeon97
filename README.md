@@ -1,4 +1,4 @@
-![Banner](https://user-images.githubusercontent.com/39513876/112361914-e021f800-8cf9-11eb-9aac-a2b675065afc.gif)
+![BannerGIF](https://github.com/ElenaLeon97/ElenaLeon97/blob/main/Banner.gif))
 
 ### <img alt="wave" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width="40" align="left"/> Hi, I'm Elena!
 ![last updated: August 2025](https://img.shields.io/badge/last_updated-August_2025-blue)
